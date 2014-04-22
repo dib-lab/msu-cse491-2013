@@ -6,9 +6,7 @@ Day 29: Tuesday, April 22, 2014
 
    Additional reading: `The future of the blockchain <http://www.businessinsider.com/the-future-of-the-blockchain-2014-4>`__; `Bitcoin tutorial <https://docs.google.com/presentation/d/1PDv5emVtrkTQgUg7yjQUNEeK972Bh40nT0BI0kLSWzc/edit#slide=id.p>`__
 
-1. Quiz.
-
-.. https://docs.google.com/forms/d/11iF_g0ALq0P8VMV2NkOkX8-LjvPgYfGOjNnEmQKHoy8/viewform
+1. `Quiz. <https://docs.google.com/forms/d/11iF_g0ALq0P8VMV2NkOkX8-LjvPgYfGOjNnEmQKHoy8/viewform>`__
 
 2. Bitcoin discussion points
 
