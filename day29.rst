@@ -28,6 +28,8 @@ Day 29: Tuesday, April 22, 2014
 
    b. read `Transaction isolation <http://www.postgresql.org/docs/9.1/static/transaction-iso.html>`__, up to 13.2.1 (through "To set the transaction isolation level...")
 
+      `(Presentation) <https://docs.google.com/presentation/d/1QPZ8cpY3QKGJJnDKxkuDXTkWUtv1B4Udh1mOKgO5m5w/edit#slide=id.p13>`__
+
    c. for each transaction isolation level, list out one or more
       applications for which those guarantees are either probably or
       certainly sufficient for reliable performance (think worst case
