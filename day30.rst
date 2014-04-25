@@ -8,7 +8,7 @@ Day 30: Thursday, April 24, 2014
 
 2. `Presentation by CTB <https://docs.google.com/presentation/d/1zsN_xOc4Ppv8F1lxdGZH-Muhv6q_8FTQ_MyvhjOT5TA/edit>`__
 
-3. `Presentation <_static/modern_web_dev_ops.pdf>`__ by Grig Gheorghiu, CTO `NastyGal <http://nastygal.com>`__
+3. `Presentation <_static/modern_web_dev_ops.pdf>`__ by Grig Gheorghiu, `NastyGal <http://nastygal.com>`__
 
 ----
 

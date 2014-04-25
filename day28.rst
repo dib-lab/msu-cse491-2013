@@ -9,7 +9,7 @@ Day 28: Thursday, April 17, 2014
 2. Discussion.
 
 3. Next week's schedule: Tuesday (XSS and Selenium; DB; SIRS);
-   Thursday (CTO `NastyGal <http://en.wikipedia.org/wiki/Nasty_Gal>`__, Grig Gheorghiu will speak via teleconf)
+   Thursday (`NastyGal <http://en.wikipedia.org/wiki/Nasty_Gal>`__, Grig Gheorghiu will speak via teleconf)
 
 4. This week's homework will be:
    (a) finish out project points by Th;
